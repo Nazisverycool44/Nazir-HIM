@@ -22,4 +22,4 @@ public class Main {
   }else{
     System.out.println("Sorry, I don't have a fact about that character.");
   }
-}}
+}}//Good Job on the code! 
